@@ -1,0 +1,40 @@
+{
+  "cookies": [
+    {
+      "id": 0,
+      "imageUrl": "https://github.com/drozdovzx/3am-react/blob/master/src/images/pechenje3-01.jpg?raw=true",
+      "urlMain": "../images/pechenje3-01.jpg",
+      "name": "list_item_name_1",
+      "text": "list_item_text_1",
+      "price": 4,
+      "category": 1
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://github.com/drozdovzx/3am-react/blob/master/src/images/pechenje3-12.jpg?raw=true",
+      "urlMain": "../images/pechenje3-12.jpg",
+      "name": "list_item_name_2",
+      "text": "list_item_text_2",
+      "price": 3,
+      "category": 1
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://github.com/drozdovzx/3am-react/blob/master/src/images/pechenje3-19.jpg?raw=true",
+      "urlMain": "../images/pechenje3-19.jpg",
+      "name": "list_item_name_3",
+      "text": "list_item_text_3",
+      "price": 2,
+      "category": 1
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://github.com/drozdovzx/3am-react/blob/master/src/images/pechenje3-20.jpg?raw=true",
+      "urlMain": "../images/pechenje3-20.jpg",
+      "name": "list_item_name_4",
+      "text": "list_item_text_4",
+      "price": 5,
+      "category": 0
+    }
+  ]
+}

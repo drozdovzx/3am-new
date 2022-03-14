@@ -1,0 +1,41 @@
+<svg viewBox="0 0 90 90" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg"
+     xmlns:bx="https://boxy-svg.com">
+    <rect style="fill: rgb(0, 36, 125);" x="-45" width="180" height="90">
+        <title>blue</title>
+    </rect>
+    <rect style="fill: rgb(255, 255, 255);" x="-49.139" y="36" width="202.573" height="18"
+          transform="matrix(0.891006, 0.453991, -0.453991, 0.891006, 18.808517, -18.849981)"
+          bx:origin="0.465347 0.5"></rect>
+    <polygon style="stroke: rgba(255, 255, 255, 0); fill: rgb(255, 255, 255);"
+             points="-55.377 36.531 145.751 36.719 144.91 54.531 -56.412 54.344"
+             transform="matrix(0.891042, -0.453921, 0.453921, 0.891042, -15.336791, 25.372829)"
+             bx:origin="0.502542 0.450115"></polygon>
+    <polygon style="stroke: rgba(255, 255, 255, 0); fill: rgb(207, 20, 43);"
+             points="-55.325 45.013 45.001 45.075 44.582 51.013 -55.84 50.95"
+             transform="matrix(0.891042, -0.453921, 0.453921, 0.891042, -15.539573, 25.273716)"
+             bx:origin="0.998756 -0.001182"></polygon>
+    <polygon style="stroke: rgba(255, 255, 255, 0); fill: rgb(207, 20, 43);"
+             points="-52.424 44.639 47.931 44.701 47.314 50.638 -53.137 50.575"
+             transform="matrix(-0.893829, 0.448408, -0.448408, -0.893829, 110.548309, 63.088943)"
+             bx:origin="0.998756 -0.001182"></polygon>
+    <polygon style="stroke: rgba(255, 255, 255, 0); fill: rgb(207, 20, 43);"
+             points="-55.115 45.427 45.235 45.489 44.684 51.426 -55.761 51.363"
+             transform="matrix(-0.89305, -0.449957, 0.449957, -0.89305, 64.957275, 106.279442)"
+             bx:origin="0.998756 -0.001182"></polygon>
+    <polygon style="stroke: rgba(255, 255, 255, 0); fill: rgb(207, 20, 43);"
+             points="-55.462 45.058 44.864 45.12 44.445 51.058 -55.977 50.995"
+             transform="matrix(0.890971, 0.45406, -0.45406, 0.890971, 25.333616, -15.402141)"
+             bx:origin="0.998756 -0.001182"></polygon>
+    <rect x="30" width="30" height="90" style="fill: rgb(255, 255, 255);">
+        <title>white</title>
+    </rect>
+    <rect x="-45" y="30" width="180" height="30" style="fill: rgb(255, 255, 255);">
+        <title>white</title>
+    </rect>
+    <rect x="36" width="18" height="90" style="fill: rgb(207, 20, 43);">
+        <title>red</title>
+    </rect>
+    <rect x="-45" y="36" width="180" height="17.969" style="fill: rgb(207, 20, 43);">
+        <title>red</title>
+    </rect>
+</svg>
